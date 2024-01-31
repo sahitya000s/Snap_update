@@ -1,13 +1,15 @@
 {
-"version": "12.67.0.25",
-"title": "Update Available!",
-"NewVersion": "12.67.0.26",
-"downloadLink": "https://telegram.me/lizamods",
-"changeLogMessage": "- Bug fixes
-- Performance improvements",
+  "versionCode": 10,
+  "versionName": "1.0",
+  "Msg": "New update is available, to continue in our app please update it.
 
-"A new update is available for the app. Please update for the latest features and improvements.",
-"negativebtn": "Later",
-"positivebtn": "Update Now",
-"changelogTitle": "Changelogs"
-}
+What's new:
+- Performance Improvements.
+- Bug Fixes.
+- New Features introduced.
+- Others minor changes.
+
+Thanks for using",
+  "downloadLink": "https://t.me/@smalicode"
+  }
+  
