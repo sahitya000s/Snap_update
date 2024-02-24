@@ -1,6 +1,6 @@
 {
-  "versionCode": 106822,
-  "versionName": "12.67.0.24",
+  "versionCode": 106823,
+  "versionName": "12.67.0.25",
   "Msg": "New update is available, to continue in our app please update it.
 
 What's new:
